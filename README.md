@@ -10,11 +10,12 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a front-end developer worki
 ### Web Technologies
 
 - HTML and CSS
-- JavaScript
+- JavaScript (Node.js)
 
 ### Framework and Libraries
 
 - Tailwind CSS
 - Svelte JS
+- Express JS
 
 ## Projects

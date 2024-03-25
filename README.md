@@ -3,7 +3,7 @@
 ![](./banner.jpg)
 
 ## About Me
-I'm [Mathew Maro](https://github.com/theomaro/theo), a front-end developer working out of Tanzania 🇹🇿. My expertise lies in developing mobile 📱 and web 🌐 applications. I provide top-notch work that leads to the best projects.
+I'm [Mathew Maro](https://github.com/theomaro/theo), a JavaScript full-stack developer working out of Mbinga, Tanzania 🇹🇿. My expertise lies in developing web 🌐 applications. I provide top-notch work that leads to the best projects.
 
 ## Skills and Experience
 

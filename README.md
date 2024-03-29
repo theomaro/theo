@@ -19,3 +19,15 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack JavaScript dev
 - Express JS
 
 ## Projects
+
+|          Medical Lab Scan           |          Manage Landing Page           |          Bookmark Landing Page           |
+| :-----------------------: | :-------------------------------: | :-------------------------------------------: |
+| ![](./mobile-preview.png) | ![](./images/projects/manage.png) | ![](./images/projects/bookmark.png)           |
+| :-----------------------: | :-------------------------------: | :-------------------------------------------: |
+| Preview [Live Site](https://theomaro.github.io/medical-lab-scan/)     | Preview [Live Site](https://theomaro.github.io/manage-landing-page/)             | Preview [Live Site](https://the-bookmark-landing-page.netlify.app/)                         |
+|                           |                                   |                                               |
+| Built With                | Built With                        | Built With                                    |
+|  - Tailwind CSS                         |   - Tailwind CSS                  |   - Tailwind CSS                              |
+|   - TypeScript                        |   - TypeScript                    |   - TypeScript                                |
+|    - GitHub pages                       |   - GitHub pages                  |   - Netlify                                   |
+

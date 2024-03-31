@@ -12,19 +12,20 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack JavaScript dev
 
 - HTML and CSS
 - JavaScript (Node.js)
+- TypeScript
 
 ### Framework and Libraries
 
 - Tailwind CSS
-- Svelte JS
+- Svelte/SvelteKit JS
 - Express JS
 
 ## Projects
 
-### Web design
+> > Built with Tailwind & TypeScript
 
-|                | Medical Lab Scan                                          | Manage Landing Page                                        | Bookmark Landing Page                                          |
-| -------------- | --------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------- |
-| Mobile Preview | ![](./images/projects/medical-lab-scan.png)               | ![](./images/projects/manage.png)                          | ![](./images/projects/bookmark.png)                            |
-| Live Demo      | [eLabScan](https://theomaro.github.io/medical-lab-scan/)  | [Manage](https://theomaro.github.io/manage-landing-page/)  | [Bookmark](https://the-bookmark-landing-page.netlify.app/)     |
-| Source Code    | [eLabScan](https://github.com/theomaro/medical-lab-scan/) | [Manage](https://github.com/theomaro/manage-landing-page/) | [Bookmark](https://github.com/theomaro/bookmark-landing-page/) |
+|                | SciMathQ                                                         | Medical Lab Scan                                          | Manage Landing Page                                        | Bookmark Landing Page                                          |
+| -------------- | ---------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------- |
+| Mobile Preview | ![Student's Portal](./images/projects/sci-math-quiz.png) | ![](./images/projects/medical-lab-scan.png)               | ![](./images/projects/manage.png)                          | ![](./images/projects/bookmark.png)                            |
+| Live Demo      | [Student's Portal](https://sci-math-quiz.vercel.app/)            | [eLabScan](https://theomaro.github.io/medical-lab-scan/)  | [Manage](https://theomaro.github.io/manage-landing-page/)  | [Bookmark](https://the-bookmark-landing-page.netlify.app/)     |
+| Source Code    | [SciMathQ](https://github.com/theomaro/sci-math-quiz/)           | [eLabScan](https://github.com/theomaro/medical-lab-scan/) | [Manage](https://github.com/theomaro/manage-landing-page/) | [Bookmark](https://github.com/theomaro/bookmark-landing-page/) |

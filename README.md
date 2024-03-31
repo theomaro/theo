@@ -22,8 +22,6 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack JavaScript dev
 
 ## Projects
 
-> > Built with Tailwind & TypeScript
-
 |                | SciMathQ                                                         | Medical Lab Scan                                          | Manage Landing Page                                        | Bookmark Landing Page                                          |
 | -------------- | ---------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------- |
 | Mobile Preview | ![Student's Portal](./images/projects/sci-math-quiz.png) | ![](./images/projects/medical-lab-scan.png)               | ![](./images/projects/manage.png)                          | ![](./images/projects/bookmark.png)                            |

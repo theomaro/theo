@@ -13,7 +13,7 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack JavaScript dev
 - HTML and CSS
 - JavaScript (Node.js)
 - TypeScript
-  MySQL
+-  MySQL
 
 ### Framework and Libraries
 

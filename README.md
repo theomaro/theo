@@ -1,6 +1,6 @@
 # Mathew Joseph
 
-![](./images/banner.jpg)
+![](./images/js-developer.png)
 
 ## About Me
 

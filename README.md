@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack JavaScript developer working out of Mbinga, Tanzania 🇹🇿. My expertise lies in developing web 🌐 applications. I provide top-notch work that leads to the best projects.
+I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack web developer working out of Mbinga, Tanzania 🇹🇿. My expertise lies in developing web 🌐 applications. I provide top-notch work that leads to the best projects.
 
 ## Skills and Experience
 
@@ -13,6 +13,7 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack JavaScript dev
 - HTML and CSS
 - JavaScript (Node.js)
 - TypeScript
+- Python
 - MySQL
 
 ### Framework and Libraries
@@ -20,6 +21,8 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack JavaScript dev
 - Tailwind CSS
 - Svelte/SvelteKit JS
 - Express JS
+- Django
+- React
 
 ## Projects
 

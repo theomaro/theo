@@ -1,6 +1,6 @@
 # Mathew Maro
 
-![](./images/js-developer.png)
+![](./images/js-deeloper.png)
 
 ## About Me
 
@@ -22,7 +22,6 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack web developer 
 - Svelte/SvelteKit JS
 - Express JS
 - Django
-- React
 
 ## Projects
 

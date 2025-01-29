@@ -32,9 +32,9 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack web developer 
 
 | Description                                                                                                         | Client Portal Page                       | Admin Portal                            |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| A web-based job listing application build with Django and MySQL.                                                    | ![](./images/projects/jobs-listings.png)  |                                         |
-| A fully-functional blogging website having an admin panel and a blog portal powered by SvelteKit, Express and MySQL | ![](./images/projects/client-portal.png) | ![](./images/projects/admin-portal.png) |
-|A web application that allows users to easily create and manage their resumes.|![](./images/projects/personalinfo.png)||
+| A web-based [job listing](https://github.com/theomaro/job-listings) application build with Django and MySQL.                                                    | ![](./images/projects/jobs-listings.png)  |                                         |
+| A fully-functional [blogging website](https://github.com/theomaro/blog-admin-panel) having an admin panel and a blog portal powered by SvelteKit, Express and MySQL | ![](./images/projects/client-portal.png) | ![](./images/projects/admin-portal.png) |
+|A [resume builder](https://github.com/theomaro/resume-builder), web application that allows users to easily create and manage their resumes.|![](./images/projects/personalinfo.png)||
 
 #### Recent Projects
 

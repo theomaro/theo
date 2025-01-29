@@ -22,6 +22,7 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack web developer 
 - Svelte/SvelteKit JS
 - Express JS
 - Django
+- React JS
 
 ## Projects
 
@@ -33,6 +34,7 @@ I'm [Mathew Maro](https://github.com/theomaro/theo), a full-stack web developer 
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------- |
 | A web-based job listing application build with Django and MySQL.                                                    | ![](./images/projects/jobs-listings.png)  |                                         |
 | A fully-functional blogging website having an admin panel and a blog portal powered by SvelteKit, Express and MySQL | ![](./images/projects/client-portal.png) | ![](./images/projects/admin-portal.png) |
+|A web application that allows users to easily create and manage their resumes.|![](./images/projects/personalinfo.png)||
 
 #### Recent Projects
 
